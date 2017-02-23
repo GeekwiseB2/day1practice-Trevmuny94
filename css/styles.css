@@ -11,6 +11,7 @@ li {
 
 @media screen and (min-width: 500px) {
   .col-md-3 {
-    background-color: purple;
+    background-color: #669900;
+    text-align: center;
   }
 }
